@@ -14,6 +14,7 @@ Now you have menu with **Memory Timings & Voltage Override** in bios
 </picture>
 
 
+
 Only Memory Timings unlock, no HT, UV
 
 **Flash in dos**
