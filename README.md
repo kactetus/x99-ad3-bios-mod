@@ -1,4 +1,4 @@
-Huananzhi X99 ad3 bios mod with **Memory Timings Control unlock**
+Huananzhi X99 **ad3 V3** bios mod with **Memory Timings Control unlock**
 
 Make by this instruction https://xeon-e5450.ru/socket-2011-3/razblokiruem-upravlenie-tajmingami/
 
