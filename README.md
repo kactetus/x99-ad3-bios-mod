@@ -7,8 +7,6 @@ http://www.huananzhi.com/en/more.php?lm=10&id=689
 
 Now you have menu with **Memory Timings & Voltage Override** in bios 
 
-https://github.com/kactetus/x99-ad3-bios-mod/blob/main/screenshot/screenshot%202024-06-14%2023-15-42%20001.png
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="[https://github.com/kactetus/x99-ad3-bios-mod/blob/main/screenshot/screenshot%202024-06-14%2023-15-42%20001.png](https://github.com/kactetus/x99-ad3-bios-mod/blob/main/screenshot/screenshot%202024-06-14%2023-15-42%20001.png)">
   <source media="(prefers-color-scheme: light)" srcset="[https://github.com/kactetus/x99-ad3-bios-mod/blob/main/screenshot/screenshot%202024-06-14%2023-15-42%20001.png](https://github.com/kactetus/x99-ad3-bios-mod/blob/main/screenshot/screenshot%202024-06-14%2023-15-42%20001.png)">
